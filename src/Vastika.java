@@ -1,4 +1,4 @@
-public class vastika {
+public class Vastika {
     public static void main(String[] args){
         String greeting="day1. Welcome to the core java";
         System.out.println(greeting);
