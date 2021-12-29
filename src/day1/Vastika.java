@@ -1,3 +1,5 @@
+package day1;
+
 public class Vastika {
     public static void main(String[] args){
         String greeting="day1. Welcome to the core java";
@@ -6,7 +8,9 @@ public class Vastika {
         System.out.println("*");
 
     }
+
         System.out.println();
 }
+
 }
 
