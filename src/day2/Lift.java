@@ -11,7 +11,7 @@ public class Lift {
     // numberOfFloorSwitch
     // isEmergencyButtonAvailable
 
-    short allowedNumberOfPerson,   // (maxCapacity)
+    short allowedNumberOfPerson;   // (maxCapacity)
     float allowedWeight;
     short currentNumberOfPerson;
     float currentWeight;
